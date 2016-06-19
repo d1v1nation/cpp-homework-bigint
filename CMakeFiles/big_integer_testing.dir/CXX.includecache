@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cat/inst/asm-cpp/cpp-homework-bigint/clion-proj/big_integer.cpp
+vector
+-
+limits.h
+-
+ostream
+-
+iostream
+-
+big_integer.h
+/home/cat/inst/asm-cpp/cpp-homework-bigint/clion-proj/big_integer.h
+
+/home/cat/inst/asm-cpp/cpp-homework-bigint/clion-proj/big_integer.h
+string
+-
+vector
+-
+
