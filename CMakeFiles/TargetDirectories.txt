@@ -1,2 +1,0 @@
-/home/cat/inst/asm-cpp/cpp-homework-bigint/clion-proj/CMakeFiles/bi.dir
-/home/cat/inst/asm-cpp/cpp-homework-bigint/clion-proj/CMakeFiles/big_integer_testing.dir

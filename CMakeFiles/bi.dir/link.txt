@@ -1,1 +1,0 @@
-/usr/bin/g++-5    -Wall -std=c++11 -pedantic -O2    CMakeFiles/bi.dir/big_integer.cpp.o CMakeFiles/bi.dir/main.cpp.o  -o bi -rdynamic 
